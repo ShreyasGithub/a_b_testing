@@ -1,0 +1,1 @@
+pyplot.axline((ad_c_mu, 0), (ad_c_mu, (norm.pdf(ad_c_mu) + ad_c_mu) * ad_c_sigma), ls='--', label=r'$\hat{\mu_c}$')
